@@ -5,7 +5,7 @@
   Surya Teja</a> 👨‍💻
 </h1>
 <p align='center'>
-  A passionate frontend developer from India
+  A passionate Fullstack Developer from India
 </p>
 <p align='center'>
  
@@ -23,6 +23,9 @@
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=suryateja011&show_icons=true&count_private=true&theme=dark" width="350"></a>
   <a href="#"><img src="https://media.giphy.com/media/62PP2yEIAZF6g/giphy.gif" width="241"></a>
+</p>
+<p align='center'>
+  <a href='#'><img src="https://github-readme-stats.vercel.app/api/top-langs?username=suryateja011&show_icons=true&locale=en&layout=compact&theme=dark" width="350"></a>
 </p>
 <br/>
 <br/>
